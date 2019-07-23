@@ -1,1 +1,1 @@
-# fizz-buzz
+# This is my take on the classic Fizz Buzz coding problem written in Python. The key to this problem lies in the order of the conditional logic. The most restrictive conditional (divisible by both 3 and 5) must come first in order for this program to work. 
